@@ -1,7 +1,4 @@
-This is my **GitHub account**, which I use to put my personal projects.
-
-- For educational-related projects, I put them in GitLab: [gitlab.com/borfei](https://gitlab.com/borfei)
-- If you want to contact me, just hit me via email: [borfei@proton.me](mailto:borfei@proton.me)
+This is my **GitHub account**, which I use to put my projects.
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=borfei&title_color=777&text_color=aaa&icon_color=808080&theme=transparent&custom_title=Statistics&hide_border=true&disable_animations=true&show_icons=true" />
